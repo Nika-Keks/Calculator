@@ -1,0 +1,5 @@
+﻿  OtherOperators.cpp
+C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\OtherBasicOperators\OtherOperators.h(29,2): warning C4275: class "Operator", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Minus"
+C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\include\Operator.h(25): message : см. объявление "Operator"
+C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\OtherBasicOperators\OtherOperators.h(28): message : см. объявление "Minus"
+  OtherBasicOperators.vcxproj -> C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\OtherBasicOperators\Debug\OtherBasicOperators.dll

@@ -1,0 +1,2 @@
+C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\OtherBasicOperators\Debug\OtherBasicOperators.dll
+C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\OtherBasicOperators\Debug\OtherBasicOperators.pdb

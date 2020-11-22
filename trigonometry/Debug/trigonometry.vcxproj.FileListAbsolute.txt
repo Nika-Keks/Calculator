@@ -1,0 +1,2 @@
+C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\trigonometry\Debug\trigonometry.dll
+C:\Users\Acer\Desktop\Documents\Лабораторные\сем 5\C++\Calculator\trigonometry\Debug\trigonometry.pdb
